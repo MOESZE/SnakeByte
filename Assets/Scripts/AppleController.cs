@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Mohammed ALHasani, 12/05/2021 script that handles the positioning of the apple at the start and when it is triggered by the snake
+// script that handles the positioning of the apple at the start and when it is triggered by the snake
 public class AppleController : MonoBehaviour
 {
     public BoxCollider AppleBoundary;
