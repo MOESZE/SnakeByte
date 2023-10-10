@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 using System.Threading;
 
 
-// Mohammed ALHasani, 12/05/2021, basically the whole game controller that controls the movement and the UI elements as well as the trigger collision detection and sounds
+// basically the whole game controller that controls the movement and the UI elements as well as the trigger collision detection and sounds
 public class SnakeController : MonoBehaviour
 {
     public static Vector3 dir = Vector3.forward;
